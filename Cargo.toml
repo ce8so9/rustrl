@@ -1,0 +1,7 @@
+[package]
+name = "rustloli"
+version = "0.1.0"
+authors = ["jmbto"]
+
+[dependencies]
+ncurses = "5.73.0"
